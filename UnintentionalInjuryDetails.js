@@ -8,11 +8,11 @@ var y = ["Poisoning", "MV Traffic", "Fall", "Suffocation",
          "Other Spec., classifiable", "Other Land Transport", "Other Spec., NEC", "Pedestrian, Other",
          "Other Transport", "Struck by or Against", "Machinery", "Firearm",
          "Pedal cyclist, Other", "Cut/pierce", "Overexertion"];
-var text = ["36.1%", "MV Traffic", "Fall", "Suffocation",
-          "Unspecified", "Drowning", "Fire/burn", "Natural / Environment",
-          "Other Spec., classifiable", "Other Land Transport", "Other Spec., NEC", "Pedestrian, Other",
-          "Other Transport", "Struck by or Against", "Machinery", "Firearm",
-          "Pedal cyclist, Other", "0.1%", "Overexertion"];
+var text = ["36.1%", "24%", "21.5%", "4.1%",
+          "4%", "2.3%", "1.7%", "1%",
+          "0.9%", "0.8%", "0.8%", "0.6%",
+          "0.6%", "0.5%", "0.4%", "0.3%",
+          "0.2%", "0.1%", "0.0%"];
 
 var data = [{
   x:      x.reverse(),
