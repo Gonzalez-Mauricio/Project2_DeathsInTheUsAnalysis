@@ -14,12 +14,13 @@ var data = [{
             "Cerebrovascular", "Alzheimer's Disease", "Diabetes Mellitus", "Influenza & Pneumonia",
             "Nephritis", "Suicide", "Septicemia", "Liver Disease",
             "Hypertension", "Parkinson's Disease", "Pneumonitis", "Homicide", "All Others"],
-  type: 'pie'
+  type: 'pie',
+  rotate: 90,
 }];
 
 // TODO: adjust center accompanying text
-// TODO: rotate pie so largest slices are on top
-// TODO: Unintentional injury details...as a separate graph
+// : // TODO: rotate pie so largest slices are on top
+// : Unintentional injury details...as a separate graph
 // TODO: add text boxes? with phobias highlighted
 
 var layout = {showlegend: false,
